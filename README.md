@@ -17,7 +17,7 @@ Context Engineering is the practice of designing and implementing systems that p
 
 ```bash
 # Create new project from template
-git clone https://github.com/your-org/cc_ctx_eng.git my-new-project
+git clone https://github.com/mrmarbury/cc_ctx_eng.git my-new-project
 cd my-new-project
 rm -rf .git
 git init
